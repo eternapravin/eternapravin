@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eternapravin
-- 👀 I’m interested working in SPEECH AI projects
-- 🌱 I’m currently learning Transformers and MLOPS
+- 👀 I’m interested working on SPEECH AI projects
+- 🌱 I’m currently learning Neural nets, CNN, Transformers and MLOPS
 - 💞️ I’m looking to collaborate on projects involving Speech AI
 - 📫 How to reach me through pravinpraba@eternascisense.com
 - 😄 Pronouns: Speech AI, Speaker Identification, Speaker Detection, Voice stack
